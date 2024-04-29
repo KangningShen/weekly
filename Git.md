@@ -1,4 +1,4 @@
-about git：
+about git:
 
 Git (/ɡɪt/)[8] is a distributed version control system[9] that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development.
 
